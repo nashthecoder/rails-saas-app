@@ -1,5 +1,8 @@
-# Freelance & Client Management Boilerplate
-A Ruby on Rails SaaS boilerplate designed for freelancers and small businesses to manage clients and time. This app allows you to keep track of projects, invoices, and payments in one place.
+# Get It Done
+
+## Freelance Client Management Boilerplate
+A Ruby on Rails SaaS app solution that provides freelance consultants with  pain-free scheduling and payment management, so they can focus on giving value to their clients.
+This app allows you to keep track of calendar, projects, invoices, and payments in one place.
 
 ## Features
 * Project management: Keep track of multiple projects and their status
@@ -15,7 +18,6 @@ A Ruby on Rails SaaS boilerplate designed for freelancers and small businesses t
 * Bootstrap
 
 ## App Flow Diagram
-
 ![App Flow Diagram](/app_flow.png 'App Flow Diagram')
 
 ## Getting Started
