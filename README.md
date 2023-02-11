@@ -1,6 +1,6 @@
 # Get It Done
 
-## Freelance Client Management Boilerplate
+## Freelance Client Management
 A Ruby on Rails SaaS app solution that provides freelance consultants with  pain-free scheduling and payment management, so they can focus on giving value to their clients.
 This app allows you to keep track of calendar, projects, invoices, and payments in one place.
 
