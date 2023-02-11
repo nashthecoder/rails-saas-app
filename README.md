@@ -19,7 +19,7 @@ A Ruby on Rails SaaS boilerplate designed for freelancers and small businesses t
 ![App Flow Diagram](/app_flow.png 'App Flow Diagram')
 
 ## Getting Started
-1. Clone the repository: git clone https://github.com/your-username/freelance-client-management-boilerplate.git
+1. Clone the repository: git clone https://github.com/nashthecoder/rails-saas-boilerplate
 2. Install dependencies: bundle install
 3. Set up the database: rails db:create db:migrate
 4. Start the development server: rails s
